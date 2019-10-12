@@ -1,1 +1,0 @@
-# ptakenouchi.github.io
