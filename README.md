@@ -1,1 +1,1 @@
-# ptakenouchi.github.io - HTML and CSS
+# HTML and CSS
